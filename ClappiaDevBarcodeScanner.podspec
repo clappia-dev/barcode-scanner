@@ -1,0 +1,1 @@
+CapacitorCommunityBarcodeScanner.podspec

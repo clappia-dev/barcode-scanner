@@ -1,5 +1,5 @@
 {
-  "name": "@clappia-dev/barcode-scanner",
+  "name": "@clappia/barcode-scanner",
   "version": "5.0.0",
   "description": "A fast and efficient (QR) barcode scanner for Capacitor",
   "main": "dist/plugin.cjs.js",
